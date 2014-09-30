@@ -1,0 +1,6 @@
+[submodule "crow"]
+	path = crow
+	url = https://github.com/ipkn/crow
+[submodule "wrk"]
+	path = wrk
+	url = https://github.com/wg/wrk
